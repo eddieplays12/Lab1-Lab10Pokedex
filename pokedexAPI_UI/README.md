@@ -2,6 +2,8 @@
 
 This is a Next.js Pokedex activity that uses the PokeAPI.
 
+This folder contains the Pokedex API integration and UI.
+
 ## Features
 
 - Search Pokemon by name or ID
