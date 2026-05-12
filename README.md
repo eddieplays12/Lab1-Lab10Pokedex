@@ -14,20 +14,20 @@ This repository contains my web development lab activities from Lab 1 to Lab 10,
 - Lab 8: `Domingo_Lab8`
 - Lab 9: `Domingo_Lab9`
 - Lab 10: `Domingo_Lab10`
-- Pokedex Next.js UI: `pokedexUI`
+- Pokedex Next.js UI with PokeAPI integration: `pokedexAPI_UI`
 
 ## PokeAPI Next.js Pokedex
 
-The Pokedex frontend is located inside:
+The Pokedex frontend with PokeAPI integration is located inside:
 
 ```txt
-pokedexUI
+pokedexAPI_UI
 ```
 
 The Pokedex page files are located inside:
 
 ```txt
-pokedexUI/app/pokedex
+pokedexAPI_UI/app/pokedex
 ```
 
 ## How to Run the Pokedex
@@ -35,7 +35,7 @@ pokedexUI/app/pokedex
 Open a terminal and go to the Next.js frontend folder:
 
 ```bash
-cd pokedexUI
+cd pokedexAPI_UI
 npm install
 npm run dev
 ```
