@@ -14,7 +14,6 @@ This repository contains my web development lab activities from Lab 1 to Lab 10,
 - Lab 8: `Domingo_Lab8`
 - Lab 9: `Domingo_Lab9`
 - Lab 10: `Domingo_Lab10`
-- PokeAPI backend/project files: `pokedexAPI`
 - Pokedex Next.js UI: `pokedexUI`
 
 ## PokeAPI Next.js Pokedex
