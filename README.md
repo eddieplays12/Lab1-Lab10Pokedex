@@ -44,6 +44,8 @@ Then open this page in the browser:
 
 ```txt
 http://localhost:3000/pokedex
+Live Pokedex:
+https://pokedex-nextjs-blue.vercel.app/pokedex
 ```
 
 ## API Used
